@@ -13,3 +13,4 @@ After that, please make a commit. Take care to avoid collision with other contri
 
 6.-Jose Fernando Gómez
 8.-Pablo Fernandez
+10.-Gonzalo Gil
